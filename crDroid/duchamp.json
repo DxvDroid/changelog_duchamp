@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "DavDroid",
+            "oem": "POCO",
+            "device": "duchamp",
+            "filename": "crDroidAndroid-16.0-20251231-duchamp-v12.5.zip",
+            "download": "Do Not Update",
+            "timestamp": 1767166592,
+            "md5": "9f5da2b158e5801315111cf9ac88c5f1",
+            "sha256": "103d0e71ea58bd0053c7e796d64885dd5c9c1eebd23eff9170c2aad250c8b455",
+            "size": 1972621937,
+            "version": "12.5",
+            "buildtype": "UNOFFICIAL",
+            "forum": "https://t.me/pocox6pro_discussion",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
